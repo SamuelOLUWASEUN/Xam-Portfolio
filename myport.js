@@ -1,5 +1,5 @@
 const newsletter = document.querySelector('.newsletter-modal');
-const newsForm = document.getElementById('.news-form');
+const newsForm = document.getElementById('news-form');
 
 window.addEventListener('load', () =>{
     setTimeout(() =>{
